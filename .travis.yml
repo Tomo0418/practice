@@ -1,5 +1,5 @@
 language: bash
 script:
   - echo hello
-  - ./test_hello.sh
+  - ./test_hello_v2.sh
  
